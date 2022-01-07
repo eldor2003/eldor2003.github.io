@@ -65,3 +65,10 @@ body{
         transform: rotate(-20deg);
     }
 }
+.owner{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    font-family: 'Times New Roman', ser serif;
+    font-weight: 800;
+}
